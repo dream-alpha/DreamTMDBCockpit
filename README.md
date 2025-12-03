@@ -22,5 +22,4 @@
 - dutch   (by msatter)
 
 ## Links
-- Installation: https://dream-alpha.github.io/TMDBCockpit
-- Support: https://github.com/dream-alpha/TMDBCockpit/discussions
+- Installation: https://dream-alpha.github.io/DreamTMDBCockpit
